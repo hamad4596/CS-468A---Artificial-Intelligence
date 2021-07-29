@@ -1,0 +1,10 @@
+Name         BMI
+
+Ahmad       25.0        
+Zeeshan     23.94        
+Qasim       24.58        
+Usman       24.62        
+Shabbir     24.09        
+Fahad       16.12        
+Ali         26.87        
+Haris       0.01        
